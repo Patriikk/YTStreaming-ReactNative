@@ -1,36 +1,26 @@
 {
   "project_info": {
-    "project_number": "568591053508",
-    "project_id": "ytstreaming-2f135",
-    "storage_bucket": "ytstreaming-2f135.appspot.com"
+    "project_number": "407766814089",
+    "project_id": "yt-streamming",
+    "storage_bucket": "yt-streamming.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:568591053508:android:bf62e770a8f5250af8cf91",
+        "mobilesdk_app_id": "1:407766814089:android:aa3c468d1373c10bf26558",
         "android_client_info": {
-          "package_name": "com.ytstreaming"
+          "package_name": "com.rnytstreaming"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "568591053508-1eh48q3d3nju4nkgd759lajpmnri0sut.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyA1cF31DjT8hQoell1ZN1Qn3QJ1lanz6tY"
+          "current_key": "AIzaSyD-Y0Q9JNuG1kvNBdbWydO-g4jzuI1f81g"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "568591053508-1eh48q3d3nju4nkgd759lajpmnri0sut.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
         }
       }
     }

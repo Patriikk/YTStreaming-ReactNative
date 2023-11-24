@@ -73,9 +73,9 @@ android {
 
     compileSdkVersion rootProject.ext.compileSdkVersion
 
-    namespace "com.ytstreaming"
+    namespace "com.rnytstreaming"
     defaultConfig {
-        applicationId "com.ytstreaming"
+        applicationId "com.rnytstreaming"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1
